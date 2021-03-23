@@ -3,7 +3,12 @@
 
 
 
+
 copy "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsagitwork" "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsa"  /Y
+copy "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsagitwork.pub" "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsa.pub"  /Y
+copy "C:\Users\Administrator.Windwos 10YKMNH\.ssh\known_hostsgitwork" "C:\Users\Administrator.Windwos 10YKMNH\.ssh\known_hosts"  /Y
+
+
 
 
 git init .
