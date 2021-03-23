@@ -1,5 +1,11 @@
 
 
+
+
+
+copy "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsavue2021" "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsa"  /Y
+
+
 git init .
 git config --global user.name "shijiangdage"
 git config --global user.email  "81173510@qq.com"
