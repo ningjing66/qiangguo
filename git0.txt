@@ -1,0 +1,10 @@
+
+
+git add .
+git commit -m "gitwork"%date%
+git push dee main
+
+
+
+
+git push dev my 
