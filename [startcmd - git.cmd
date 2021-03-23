@@ -27,18 +27,6 @@ git checkout -b master
 git branch
 ssh -T git@github.com
 
-
-git checkout -b master
-git branch
-ssh -T git@github.com
-git add .
-git commit -m "vue"%date%
-git status
-git remote -v
-git push --force dee master
-
-
-
 git checkout -b main
 git add .
 git commit -m "vue"%date%
@@ -56,6 +44,18 @@ git push --force dee main
 exit
 
 exit
+
+
+git checkout -b master
+git branch
+ssh -T git@github.com
+git add .
+git commit -m "vue"%date%
+git status
+git remote -v
+git push --force dee master
+
+
 
 exit
 
