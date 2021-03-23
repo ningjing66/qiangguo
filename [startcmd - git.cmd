@@ -3,7 +3,7 @@
 
 
 
-dddcopy "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsagitwork" "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsa"  /Y
+copy "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsagitwork" "C:\Users\Administrator.Windwos 10YKMNH\.ssh\id_rsa"  /Y
 
 
 git init .
